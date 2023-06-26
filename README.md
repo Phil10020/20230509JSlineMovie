@@ -2,7 +2,9 @@
 
 ## STEP01
 ### 加入line機械人好友
-### ![](https://qr-official.line.me/sid/L/089wartj.png)
+### ![line機械人好友](https://qr-official.line.me/sid/L/089wartj.png)
+### or
+### [看不到圖請點此連結](https://qr-official.line.me/sid/L/089wartj.png)
 
 ## STEP02
 ### 輸入想要查詢的電影名稱
