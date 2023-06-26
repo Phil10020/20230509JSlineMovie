@@ -126,7 +126,7 @@ bot.on("message", async (event) => {
           new Date(a.body.contents[0].contents[0].contents[1].text).getTime()
         );
       });
-      event.reply({
+      const results = await event.reply({
         type: "flex",
         altText: "電影查詢",
         contents: {
@@ -134,6 +134,7 @@ bot.on("message", async (event) => {
           contents: arr,
         },
       });
+      console.log(results);
     } catch (error) {
       console.log(error);
       event.reply("格式錯誤");
